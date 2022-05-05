@@ -1,0 +1,16 @@
+============Student================
+name=尤勇
+age=22
+gender=男
+className=1班
+hobby=下棋
+============Student================
+name=夏琪
+age=20
+gender=女
+className=2班
+hobby=游泳
+============Teacher================
+name=张三
+gender=男
+salary=8888.88
